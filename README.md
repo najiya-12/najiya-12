@@ -40,7 +40,7 @@ I am always excited to connect with **like-minded professionals, researchers, an
 
 📌 Whether you're working on **smart grids, machine learning for energy systems, or innovative sustainability solutions**, let's collaborate and push the boundaries of what's possible!  
 
-🔗 **[LinkedIn](http://linkedin.com/in/najiyaomar)** | 💻 **[GitHub](https://github.com/najiya-12)** | 📄 **[Google Scholar](https://scholar.google.ca/citations?user=bZeVsVAAAAAJ&hl=en)**| 📧 **[Email](mailto:najiya.omar@dal.ca)**  
+🔗 **[LinkedIn](http://linkedin.com/in/najiyaomar)** | 💻 **[GitHub](https://github.com/najiya-12)** | 📄 **[Google Scholar](https://scholar.google.ca/citations?user=bZeVsVAAAAAJ&hl=en)** | 📧 **[Email](mailto:najiya.omar@dal.ca)**  
 
 🚀 *Let's build a smarter, more efficient, and sustainable future together!* ✨  
 
