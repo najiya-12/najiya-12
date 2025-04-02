@@ -3,7 +3,7 @@
 ##  About Me  
 
 
-I am an **electrical engineer**, a **data-driven problem solver**, and an **innovator** in the field of **energy management and optimization**. My passion lies in **leveraging big data, machine learning, and advanced analytics** to drive transformative solutions in the energy sector.  
+I am an **electrical engineer**, a **data-driven problem solver** in the field of **energy management and optimization**. My passion lies in **leveraging big data, machine learning, and advanced analytics** to drive transformative solutions in the energy sector.  
 
 With a deep technical foundation and a forward-thinking mindset, I specialize in **developing intelligent systems** that enhance **energy efficiency, sustainability, and reliability** in modern power grids.
 
