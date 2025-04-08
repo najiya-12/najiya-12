@@ -29,7 +29,7 @@ My work revolves around bridging the gap between **engineering, artificial intel
 ---
 
 ## 📄 My CV  
-🔹 You can view or download my **Curriculum Vitae (CV)** [here](https://github.com/najiya-12/my-cv.pdf).  
+🔹 You can view or download my **Curriculum Vitae (CV)** [here](https://github.com/najiya-12/Najiya_CV).  
 
 📌 *This document provides details about my education, experience, projects, and research contributions.*
 
